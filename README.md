@@ -16,9 +16,3 @@ Este projeto é um exemplo de implementação de um CRUD (Create, Read, Update, 
 - `categoria.py`: Classe Categoria para manipulação de categorias.
 - `AbstractCrud.py`: Classe abstrata contendo métodos genéricos para operações CRUD.
 - `index.py`: Interface de linha de comando para interação com o usuário.
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/eltonJramc/projetoProdutos.py
